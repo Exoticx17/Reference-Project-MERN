@@ -1,0 +1,63 @@
+.foot{
+    background-color: rgb(54, 54, 54);
+    height: 75px;
+    margin-left: -8px;
+    margin-right: -8px;
+    margin-top: 10px;
+}
+.jobs{
+    color:white;
+    text-decoration: none;
+    font-weight: bold;
+    font-size: 23px;
+    margin-top: 15px;
+    margin-left: 200px;
+}
+.stocks{
+    color:white;
+    text-decoration: none;
+    font-weight: bold;
+    font-size: 23px;
+    margin-top: 15px;
+    margin-left: 125px;
+}
+.videos{
+    color:white;
+    text-decoration: none;
+    font-weight: bold;
+    font-size: 23px;
+    margin-top: 15px;
+    margin-left: 125px;
+}
+.help{
+    color:white;
+    text-decoration: none;
+    font-weight: bold;
+    font-size: 23px;
+    margin-top: 15px;
+    margin-left: 125px;
+}
+.subs{
+    color:white;
+    text-decoration: none;
+    font-weight: bold;
+    font-size: 23px;
+    margin-top: 15px;
+    margin-right: 200px;
+    margin-left: 125px;
+}
+.jobs:hover{
+    text-decoration: underline;
+}
+.stocks:hover{
+    text-decoration: underline;
+}
+.videos:hover{
+    text-decoration: underline;
+}
+.help:hover{
+    text-decoration: underline;
+}
+.subs:hover{
+    text-decoration: underline;
+}

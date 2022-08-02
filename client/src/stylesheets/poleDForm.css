@@ -1,0 +1,26 @@
+.delete{
+    width: 195px;
+    margin-bottom: 10px;
+    height: 45px;
+    border-radius: 6px;
+    border-color: rgb(0, 69, 87);
+    color: rgba(0, 46, 87, 0.733);
+    margin-left: 195px;;
+}
+.delete::placeholder{
+    color: rgba(0, 46, 87, 0.733);
+    font-size: 25px;
+    font-weight: bold;
+}
+.polesubmit{
+    border: 1px solid black;
+    border-radius: 5px;
+    font-size: 25px;
+    padding: 7px;
+    font-weight: bold;
+    height: 48px;
+    width: 100px;
+    margin-left: 430px;
+    position: absolute;
+    bottom: -52px;;
+}

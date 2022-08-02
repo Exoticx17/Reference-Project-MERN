@@ -1,0 +1,115 @@
+.form{
+    border: 2px solid #3f3f3f;
+    margin-top: 50px;
+    background-image: url('../../public/bg-pic.jpg');
+    background-repeat: no-repeat;
+    height: 200px;
+    width: 1257px;;
+    margin-top: -5px;
+    border-radius: 5px;
+    display: flex;
+    margin-left: -55px;
+}
+.title{
+    height: 50px;
+    width: 200px;
+    border: 2px solid rgb(0, 69, 87);
+    border-radius: 6px;
+    background-color: #f2f2f2;
+    color: rgba(0, 46, 87, 0.733);
+    margin-left: 15px;
+    margin-top: 20px;
+    font-size: 25px;;
+}
+.title::placeholder{
+    color: rgba(0, 46, 87, 0.733);
+    padding-left: 5px;
+    font-size: 30px;
+}
+.author{
+    height: 50px;
+    width: 200px;
+    border: 2px solid rgb(0, 69, 87);
+    border-radius: 6px;
+    background-color: #f2f2f2;
+    color: rgba(0, 46, 87, 0.733);
+    margin-left: 20px;
+    margin-top: 20px;;
+    font-size: 25px;;
+}
+.author::placeholder{
+    color: rgba(0, 46, 87, 0.733);
+    padding-left: 5px;
+    font-size: 30px;
+}
+.snippet{
+    width: 250px;
+    height: 75px;
+    border: 2px solid rgb(0, 69, 87);
+    border-radius: 6px;
+    background-color: #f2f2f2;
+    color: rgba(0, 46, 87, 0.733);
+    margin-top: 20px;
+    margin-left: 10px;
+    font-size: 17px;;
+}
+.snippet::placeholder{
+    color: rgba(0, 46, 87, 0.733);
+    padding-left: 5px;
+    font-size: 30px;
+    font-weight: bold;
+}
+.body{
+    border: 2px solid rgb(0, 69, 87);
+    border-radius: 6px;
+    background-color: #f2f2f2;;
+    height: 100px;
+    width: 275px;
+    color: rgba(0, 46, 87, 0.733);
+    margin-top: 20px;
+    font-size: 17px;;
+    text-align: left;
+    margin-left: 10px;
+}
+.body::placeholder{
+    color: rgba(0, 46, 87, 0.733);
+    padding-left: 5px;
+    font-size: 30px;
+    font-weight: bold;
+}
+.pcategory{
+    border-color: black;
+    border-width: 1px;
+    height: 45px;
+    width: 200px;
+    position: static;
+    border-radius: 5px;
+    margin-top: 20px;
+    margin-left: 10px;;
+    font-weight: bold;
+    font-size: 30px;
+    color:rgb(0, 46, 87);
+}
+.s-value{
+    font-size: 17px;
+    font-weight: bold;
+}
+.psubmit{
+    border: 1px solid black;
+    border-radius: 5px;
+    font-size: 25px;
+    padding: 7px;
+    font-weight: bold;
+    height: 48px;
+    background-color: #f2f2f2;
+    margin-left: -1050px;
+    margin-top: 100px;;
+    cursor: pointer;
+}
+.data4{
+    font-size: 35px;
+    color:rgb(0, 46, 87);
+    font-weight: bold;
+    margin-top: 105px;
+    margin-left: 65px;
+}

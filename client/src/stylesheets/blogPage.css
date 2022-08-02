@@ -1,0 +1,67 @@
+.pcontainer{
+    border: none;
+    height: 470px;
+    margin-bottom: 350px;;
+}
+.pheader{
+    display: block;
+    width: 1250px;
+    height: 100px;
+}
+.ptitle{
+    font-size:35px;
+    color: rgb(0, 69, 87);
+    margin-top: 10px;
+    font-weight: bold;
+    text-align: center;
+}
+.ppauthor{
+    font-size:33px;
+    font-weight: bold;
+    color: rgb(0, 69, 87);
+    float: right;
+    margin-right: 20px;
+    margin-top: -25px;;
+}
+.pmiddle{
+    width: 1255px;
+    margin-left: -5px;;
+}
+.ppcategory{
+    font-size: 33px;
+    font-weight: bold;
+    color: rgb(0, 69, 87);
+    margin-top: -20px;
+    float: left;
+    margin-left: 20px;;
+}
+.pphoto{
+    height:300px;
+    width:500px;
+    border-radius: 7px;;
+    margin-top: 25px;
+    text-align: center;
+    margin-left: 85px;;
+}
+.ppbody-1{
+    display: flex;
+    width: 1225px;
+    margin-left: -5px;;
+}
+.ppid{
+    font-size:25px;
+    color: rgb(0, 69, 87);
+    margin-left: 495px;
+    margin-top: 40px;
+    font-weight: bold;
+    text-align: center;
+}
+.tbody{
+    display: block;
+    margin-left: 57px;
+    margin-right: 15px;
+    font-size: 23px;
+    text-align: center;
+    width:1100px;
+    height: 200px;
+}

@@ -1,0 +1,72 @@
+.zero h3{
+    font-size: 33px;
+    font-weight: bold;
+    text-align: center;
+}
+.zero h4{
+    font-size: 28px;
+    text-align: center;
+    color: #3c3d3d;
+}
+.zero h5{
+    font-size: 28px;
+    margin-left: 25px;
+    margin-top: -5px;
+}
+.zero h6{
+    font-size: 28px;
+    margin-left: 80px;
+    margin-top: -25px;
+}
+.zero p {
+    font-size: 20px;
+    text-align: center;
+}
+.one{
+    text-align: center;
+    margin-top: 50px;;
+    margin-bottom: 50px;
+}
+.barone {
+    margin-left: 170px;;
+}
+.label1{
+    font-size: 23px;
+    font-weight: bold;
+}
+.two{
+    text-align: center;
+    margin-top: 50px;;
+    margin-bottom: 50px;
+}
+.bartwo {
+    margin-left: 170px;;
+}
+.label2{
+    font-size: 23px;
+    font-weight: bold;
+}
+.three{
+    text-align: center;
+    margin-top: 50px;;
+    margin-bottom: 50px;
+}
+.barthree {
+    margin-left: 170px;;
+}
+.label3{
+    font-size: 23px;
+    font-weight: bold;
+}
+.four{
+    text-align: center;
+    margin-top: 50px;;
+    margin-bottom: 50px;
+}
+.barfour {
+    margin-left: 170px;;
+}
+.label4{
+    font-size: 23px;
+    font-weight: bold;
+}

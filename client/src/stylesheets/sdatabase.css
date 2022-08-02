@@ -1,0 +1,16 @@
+.post{
+    margin-left: 49px;
+    margin-top: 10px;
+    display: block;
+}
+.edit {
+    margin-left: 49px;
+    margin-top: 10px;
+    display: block;
+}
+.delete{
+    margin-top: 22px;
+    width: 175px;
+    margin-left: 225px;
+    display: block;
+}

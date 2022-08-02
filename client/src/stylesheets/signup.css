@@ -1,0 +1,95 @@
+h2{
+    font-size: 37px;
+    color: white;
+    font-weight: bold;
+    float: right;
+    margin-right: 150px;
+    margin-top: 185px;
+}
+
+.emaill{
+    height: 30px;
+    width: 215px;
+    font-size: 20px;
+    color: rgb(0, 131, 163);
+    font-weight: bold;
+    border-radius: 4px;
+    margin-top: 115px;
+    margin-left: 5px;
+    border-style: solid;
+    border-color: black;
+}
+
+.emaill::placeholder{
+    font-size: 20px;
+    color: rgb(0, 131, 163);
+    font-weight: bold;
+}
+.password{
+    height: 30px;
+    width: 215px;
+    font-size: 20px;
+    color: rgb(0, 131, 163);
+    font-weight: bold;
+    margin-left: 5px;
+    border-color: black;
+    border-radius: 4px;
+    margin-top: 105px;
+}
+.password::placeholder{
+    font-size: 20px;
+    color: rgb(0, 131, 163);
+    font-weight: bold;
+}
+
+.el{
+    font-size: 27px;
+    color: white;
+    font-weight: bold;
+    margin-left: 45px;
+}
+.pl{
+    font-size: 27px;
+    color: white;
+    font-weight: bold;
+    margin-left: 45px;
+}
+.submit{
+    border: 1px solid black;
+    border-radius: 5px;
+    font-size: 25px;
+    padding: 7px;
+    font-weight: bold;
+    height: 48px;
+    background-color: #f2f2f2;
+    margin-left: 600px;
+    margin-top: -155px;
+    position: absolute;
+}
+.email-error{
+    font-size: 27px;
+    color: white;
+    font-weight: bold;
+    margin-top: 25px;
+    margin-left: 45px;
+}
+.password-error{
+    font-size: 27px;
+    color: white;
+    font-weight: bold;
+    margin-top: 25px;
+    margin-left: 45px;
+}
+.signup{
+    height: 433px;
+    background-image: url('../../public/formimage.jpg');
+    background-repeat: no-repeat;
+    width: 1250px;
+    border: 1px solid darkgrey;
+    background-size: cover;
+}
+
+.signup:hover{
+    cursor: pointer;
+    color: goldenrod;
+}

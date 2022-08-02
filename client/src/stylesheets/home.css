@@ -1,0 +1,31 @@
+.home{
+    background-image: url('../../public/bgphoto.jpg');
+    background-repeat: no-repeat;
+    height: 470px;
+    background-size: cover;
+    margin-left: -8px;
+    margin-right: -8px;
+}
+.box{
+    border: 4px solid rgb(220, 220, 220);
+    border-radius: 15px;
+    height: 275px;
+    width: 500px;
+    position: absolute;
+    margin-top: 75px;
+    margin-left: 115px;
+}
+.box h4{
+    text-align: center;
+    color: #ffee;
+    font-weight: bold;
+    font-size: 30px;
+    margin-top: 45px;;
+}
+.box p{
+    text-align: center;
+    color: #ffee;
+    font-weight: bold;
+    font-size: 20px;
+    margin-top: 75px;
+}

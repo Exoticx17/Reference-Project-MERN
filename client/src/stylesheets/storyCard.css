@@ -1,0 +1,37 @@
+.contained{
+    border: 1px solid #848484;
+    border-radius: 7px;
+    width: 250px;
+    height: 275px;
+    margin-left: 40px;
+    margin-bottom: 25px;
+    margin-top: 25px;;
+}
+.picture{
+    height: 120px; 
+    width: 225px;
+    border-radius: 9px;
+}
+.text{
+    text-decoration: none;
+    border: none;
+}
+.ttname{
+    color: #181818;
+    font-weight: bold;
+    font-size: 27px;
+    margin-top: 3px;
+    text-decoration: none;
+    width: 200px;
+    margin-right: 25px;
+}
+.tsnippet{
+    text-decoration: none;
+    font-size: 22px;
+    color: #181818;
+    margin-bottom: -10px;
+    width: 225px;
+    display: inline-block;
+    text-align: center;
+    margin-left: 11px;
+}

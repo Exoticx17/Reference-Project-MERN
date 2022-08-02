@@ -1,0 +1,19 @@
+.input {
+    border-radius: 6px;
+    background-color: #4f747d;
+    color: white;
+    border: none;
+    font-size: 25px;
+    margin-top: 15px;
+    height: 35px;
+}
+.container{
+    display: inline-block;
+}
+#next{
+    margin-left: 700px;
+    margin-right: 100px;
+}
+#prev{
+    margin-left: 100px;
+}
