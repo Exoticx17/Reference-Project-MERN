@@ -138,6 +138,7 @@ const Blogs = (props) => {
 
     return ( 
         <div className='blogs'>
+            <meta name='description' content="Main Page For Blogs"/>
             <div className='search'>
                     <Search formHandler={formHandler}/>
             </div>

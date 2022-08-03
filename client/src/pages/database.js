@@ -112,6 +112,7 @@ const Database = () => {
         <div>
             <div className='post'>
                 <PForm formHandler={handleForm}/>
+                <meta name='description' content="Main Database Page For Blogs"/>
             </div>
             <div className='edit'>
                 <EForm formHandler={ehandleForm}/>

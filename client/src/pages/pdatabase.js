@@ -94,6 +94,7 @@ const Database = () => {
 
     return ( 
         <div>
+            <meta name='description' content="Main Database Page For Poles"/>
             <div className='post'>
                 <PolePForm formHandler={handleForm}/>
             </div>

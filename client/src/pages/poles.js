@@ -137,6 +137,7 @@ const Poles = () => {
 
     return ( 
         <div className='poles'>
+            <meta name='description' content="Main Page For Poles"/>
             <div className='search'>
                     <PoleSearch formHandler={formHandler}/> 
             </div>

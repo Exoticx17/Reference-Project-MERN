@@ -294,6 +294,7 @@ const PIDPage = () => {
 
     return ( 
     <div className='container'>
+        <meta name='description' content="Secondary Specific Page For Stories"/>
         <RenderBarC1 />
     </div>  
     );

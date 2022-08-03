@@ -63,6 +63,7 @@ const Login = () => {
     }
     return ( 
         <div>
+            <meta name='description' content="Main Page For Logging In"/>
             <LoginForm formHandler={lformHandler} emerror={eerror} paerror={perror}/>
        </div>
      );

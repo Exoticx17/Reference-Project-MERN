@@ -139,6 +139,7 @@ const Stories = (props) => {
 
     return ( 
         <div className='stories'>
+            <meta name='description' content="Main Page For Stories"/>
             <div className='search'>
                     <Search formHandler={formHandler}/>
             </div>

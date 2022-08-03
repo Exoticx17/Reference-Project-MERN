@@ -108,6 +108,7 @@ const Database = () => {
 
     return ( 
         <div>
+            <meta name='description' content="Main Database Page For Stories"/>
             <div className='post'>
                 <StoryPForm formHandler={handleForm}/>
             </div>

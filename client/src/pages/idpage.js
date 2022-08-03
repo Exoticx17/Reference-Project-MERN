@@ -27,6 +27,7 @@ const IdPage = () => {
 
     return ( 
         <div>
+            <meta name='description' content="Secondary Specific Page For Blogs"/>
             { PageLoader() }
         </div>
       );

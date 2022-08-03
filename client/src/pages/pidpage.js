@@ -270,6 +270,7 @@ const SIDPage = () => {
 
     return ( 
     <div className='container'>
+        <meta name='description' content="Secondary Specfic Page For Poles"/>
         <RenderBarC1 />
     </div>  
     );

@@ -66,7 +66,10 @@ const Signup = () => {
     }
 
     return ( 
-        <SignupForm formHandler={formHandler} eerror={eerror} perror={perror}/>
+        <div className='signup'>
+            <meta name='description' content="Main Page For Signing In"/>
+            <SignupForm formHandler={formHandler} eerror={eerror} perror={perror}/>
+        </div>
      );
 }
  
