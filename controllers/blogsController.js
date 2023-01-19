@@ -40,12 +40,12 @@ const blogSearch = async(req,res) => {
 
         if(!category && title){
 
-            const blog = await Blog.find({$text: { $search: title}}).skip(page* booksPerPage).limit(booksPerPage)
+            const blog = await Blog.find({$text: { $search: title, $caseSensitive: false}}).skip(page* booksPerPage).limit(booksPerPage)
             res.status(200).json(blog)
             
         } else if(category && title){
 
-            const cblog = await Blog.find({ $text: { $search: title}, category: category }).skip(page* booksPerPage).limit(booksPerPage)
+            const cblog = await Blog.find({ $text: { $search: title, $caseSensitive: false}, category: category }).skip(page* booksPerPage).limit(booksPerPage)
             res.status(200).json(cblog)
         } else if(category && !title){
 
